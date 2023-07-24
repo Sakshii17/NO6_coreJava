@@ -1,8 +1,9 @@
+
 package com.capgemini.statements;
 
 import java.util.Scanner;
 
-public class ForLoopExecutor {
+public class LeftAngleTraingle {
 
 	public static void main(String[] args) {
 		Scanner s=new Scanner(System.in);
@@ -11,10 +12,10 @@ public class ForLoopExecutor {
 		{
 			for(int j=1; j<=i; j++)
 			{
-				System.out.print("*");
+				System.out.print(" "+j);
 			}
 			System.out.println();
 		}
-	}
 
+	}
 }
