@@ -1,7 +1,7 @@
 /*Program to demonstrate on to check the person is eligible to donate the blood or not 
   if..else*/
 
-package daytwodecisionmaking;
+package com.capgemini.statements;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 // Program to demonstrate activate caller tune
-package daytwodecisionmaking;
+package com.capgemini.statements;
 
 import java.util.Scanner;
 

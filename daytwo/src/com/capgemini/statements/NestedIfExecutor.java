@@ -1,6 +1,6 @@
 //Program to demonstrate on Bunjee jumping using nested if
 
-package daytwodecisionmaking;
+package com.capgemini.statements;
 
 import java.util.Scanner;
 

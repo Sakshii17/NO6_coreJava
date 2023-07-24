@@ -1,5 +1,5 @@
 //Program to demonstrate on cascaded if-else statement
-package daytwodecisionmaking;
+package com.capgemini.statements;
 
 import java.util.Scanner;
 
