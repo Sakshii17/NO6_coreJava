@@ -13,8 +13,6 @@ public class DigitCount {
 			num/=10;
 		}while(num !=10);
 		System.out.println("Total Digits: " +count);
-		
-		//System.out.println("Enter the number of digits: "+count);
 
 	}
 
