@@ -5,7 +5,10 @@ public class IncrementDecrementOperator {
 
 	public static void main(String[] args) {
 		int x=23,y=6;
-		int res1=x++ + ++y; //23 +7
+		System.out.println(x++);
+		System.out.println(x);
+		System.out.println(++x);
+	/*	int res1=x++ + ++y; //23 +7
 		System.out.println(res1);
 		System.out.println(x); //24
 		System.out.println(y); //30
@@ -14,6 +17,7 @@ public class IncrementDecrementOperator {
 		System.out.println(res2);
 		System.out.println(x);
 		System.out.println(y);
+		*/
 	}
 
 }

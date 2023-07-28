@@ -8,7 +8,7 @@ public class DoWhileExecutor {
 		{
 			System.out.println("The value of x is: "+x);
 			x++;
-		}while(x<15);
+		}while(x>15);
 
 	}
 

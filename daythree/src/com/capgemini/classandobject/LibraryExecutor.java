@@ -8,7 +8,7 @@ public class LibraryExecutor {
 		//object creation
 		Library l=new Library();
 		Library l1=new Library(5,"Aman","Automic Habits",250);
-		System.out.println(l1);
+		//System.out.println(l1);
 	}
 
 }

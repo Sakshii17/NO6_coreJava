@@ -8,8 +8,8 @@ public class BitwiseOperator {
 		System.out.println(x&y);
 		System.out.println(x|y);
 		System.out.println(x^y);
-		System.out.println(8>>1);
-		System.out.println(8<<1);
+		System.out.println(8>>1); // a/2^b
+		System.out.println(8<<1); // a*2^b
 
 	}
 
