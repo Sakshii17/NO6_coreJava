@@ -1,4 +1,5 @@
 /* There are N people standing in a circle waiting to be executed. 
+
  * The counting out begins at some point in the circle and procced around a circle
  * in a fixed direction.
  * In each steps a certain number of people are skipped and the next person is executed.
